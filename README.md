@@ -1,6 +1,6 @@
 # linux-validation-for-HPC
 - For a **High-Performance Computing (HPC)** project, Linux validation is the process of verifying that the Linux operating system, kernel, drivers, firmware, and hardware platform function correctly, reliably, securely, and with maximum performance under HPC workloads.
-- Since you have an embedded/Linux background, many concepts (kernel, drivers, interrupts, memory management) directly apply, but the emphasis shifts toward **performance, scalability, and stability** rather than resource-constrained systems.
+- Since I have an embedded/Linux background, many concepts (kernel, drivers, interrupts, memory management) directly apply, but the emphasis shifts toward **performance, scalability, and stability** rather than resource-constrained systems.
 
 ---
 
@@ -586,7 +586,7 @@ Given your background in Linux, BSP, and embedded systems, the following skills 
 
 ### Relation to your current career path
 
-Your stated focus on **Linux device drivers, C, and Yocto** aligns well with Linux validation roles. Those skills provide a strong foundation for validating kernel changes, driver functionality, and platform stability. To transition toward HPC validation, the main additions are:
+**Linux device drivers, C, and Yocto** aligns well with Linux validation roles. Those skills provide a strong foundation for validating kernel changes, driver functionality, and platform stability. To transition toward HPC validation, the main additions are:
 
 * Performance engineering and profiling.
 * NUMA and multi-socket system architecture.
